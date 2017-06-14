@@ -1,9 +1,14 @@
 ---
+ID: 16
 post_title: 'Prolonged Fasting: A Short How-To Guide'
+author: smallstar_admin
+post_date: 2017-06-14 23:01:21
+post_excerpt: ""
 layout: post
+permalink: >
+  http://smallstar.space/blog/prolonged-fasting-a-short-how-to-guide/
 published: true
 ---
-
 ### Prolonged Fasting: A Short How-To Guide
 
   What is prolonged fasting? The term isn't especially precise, but it is generally taken to mean a long (5+ days) period with extremely low calorie intake. There are several different variants:
