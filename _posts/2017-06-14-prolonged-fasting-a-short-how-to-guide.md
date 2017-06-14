@@ -4,7 +4,7 @@ post_title: 'Prolonged Fasting: A Short How-To Guide'
 author: smallstar_admin
 post_date: 2017-06-14 23:01:21
 post_excerpt: ""
-layout: post
+layout: Standard
 permalink: >
   http://smallstar.space/blog/prolonged-fasting-a-short-how-to-guide/
 published: true
